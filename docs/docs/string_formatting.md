@@ -117,7 +117,7 @@ The following tokens are currently supported:
 |                                | M             | 1, 2, 3 ... 11, 12                         |
 |                                | Mo            | 1st 2nd ... 11th 12th                      |
 | **Day of Year**                | DDDD          | 001, 002, 003 ... 364, 365                 |
-|                                | DDD           | 1, 2, 3 ... 4, 5                           |
+|                                | DDD           | 1, 2, 3 ... 364, 365                       |
 | **Day of Month**               | DD            | 01, 02, 03 ... 30, 31                      |
 |                                | D             | 1, 2, 3 ... 30, 31                         |
 |                                | Do            | 1st, 2nd, 3rd ... 30th, 31st               |
